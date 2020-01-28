@@ -1,6 +1,5 @@
 Ryan Egan
-Assignment 4
-CS 442 Summer 2019
+Design Patterns Assignment 4
 
 HOW TO COMPILE
 While in the multiThreadedHS/src directory, run "ant all" to compile the program.
